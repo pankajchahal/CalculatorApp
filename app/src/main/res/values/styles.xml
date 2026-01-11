@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Calculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#222222</item>
+        <item name="colorPrimaryVariant">#1B1B1B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#121212</item>
+    </style>
+
+    <style name="Calc" parent="Theme.MaterialComponents.DayNight.DarkActionBar"/>
+
+    <style name="Calc.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

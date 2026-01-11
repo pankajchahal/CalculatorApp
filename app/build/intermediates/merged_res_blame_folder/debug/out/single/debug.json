@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.calculator.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.calculator.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-merged_res-28:/drawable_button_memory.xml.flat",
+        "source": "com.example.calculator.app-main-30:/drawable/button_memory.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-merged_res-28:/drawable_button_number.xml.flat",
+        "source": "com.example.calculator.app-main-30:/drawable/button_number.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-merged_res-28:/drawable_button_operator.xml.flat",
+        "source": "com.example.calculator.app-main-30:/drawable/button_operator.xml"
+    }
+]
