@@ -1,0 +1,10 @@
+# Gradle build cache
+.gradle/
+
+# Android Studio / IntelliJ config
+.idea/
+
+# Optional but recommended
+*.iml
+/build/
+/app/build/
